@@ -1,0 +1,22 @@
+{
+	"test": "測試",
+	"systemApi-1000": "Get backend version fail.",
+	"error-dataMiddleware-1000": "error-dataMiddleware-1000",
+	"error-dataMiddleware-1003": "error-dataMiddleware-1003",
+	"success-userApi-1000": "success-userApi-1000",
+	"error-userApi-1000": "error-userApi-1000",
+	"error-userApi-1001": "error-userApi-1001",
+	"error-authMiddleware-1008": "error-authMiddleware-1008",
+	"error-dataMiddleware-111": "error-dataMiddleware-111",
+	"error-authMiddleware-1007": "error-authMiddleware-1007",
+	"success-userApi-1001": "success-userApi-1001",
+	"error-userApi-1003": "error-userApi-1003",
+	"error-authMiddleware-1005": "error-authMiddleware-1005",
+	"error-authMiddleware-1002": "error-authMiddleware-1002",
+	"error-userApi-1004": "error-userApi-1004",
+	"error-authMiddleware-1004": "error-authMiddleware-1004",
+	"error-authMiddleware-1000": "error-authMiddleware-1000",
+	"error-dataMiddleware-1001": "error-dataMiddleware-1001",
+	"error-authMiddleware-1010": "error-authMiddleware-1010",
+	"error-userApi-1002": "error-userApi-1002"
+}
