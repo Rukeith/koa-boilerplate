@@ -1,5 +1,7 @@
 # Sample Koa Server
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Rukeith/sample-koa-project.svg)](https://greenkeeper.io/)
+
 # Project structure
 
 ```
