@@ -37,7 +37,7 @@
     "mysql2": "^1.4.2",
     "node-timednonce": "^1.1.3",
     "sequelize": "^4.13.8",
-    "validator": "^8.2.0"
+    "validator": "^9.2.0"
   },
   "devDependencies": {
     "babel-eslint": "^8.0.1",
